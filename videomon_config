@@ -1,0 +1,7 @@
+{
+"cnf_server_host": "bulk.se.monroe-system.eu",
+"cnf_server_port": 10080,
+"enabled_interfaces": ["eth0"],
+"cnf_tag": "Test run on local machine",
+"cnf_yomo_playback_duration_s": 100
+}
